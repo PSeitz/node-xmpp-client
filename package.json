@@ -31,8 +31,8 @@
     "faye-websocket": "^0.10.0",
     "istanbul": "^0.4.1",
     "minimist": "^1.2.0",
-    "node-xmpp-stanza" : "*",
     "node-xmpp-core": "git://github.com/PSeitz/node-xmpp-core",
+    "node-xmpp-stanza": "^1.1.0",
     "request": "^2.65.0"
   },
   "devDependencies": {
